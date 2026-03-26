@@ -55,7 +55,7 @@ I enjoy building ML models, dashboards, and automation workflows that solve real
 **Tech:** Python, Pandas, Scikit-learn  
 - Built a churn prediction pipeline with feature engineering & Random Forest  
 - Includes data cleaning, EDA, model evaluation & visualization  
-🔗 Repo: *(Add your repo link here)*
+🔗 Repo: https://github.com/christy123johns/Customer_Churn_Analysis_
 
 ---
 
