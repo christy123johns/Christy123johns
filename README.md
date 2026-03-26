@@ -79,5 +79,5 @@ I enjoy building ML models, dashboards, and automation workflows that solve real
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my projects or reach out for collaboration.*
+
 
