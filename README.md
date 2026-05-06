@@ -1,6 +1,9 @@
 # 👋 Warm Greetings, Hi...
 
-I’m Christy Johns, a former Data Analyst with 2+ years of experience in Data Analysis, Machine Learning & Reporting, currently pursuing Data Science and passionate about transforming data into meaningful insights. I’m passionate about leveraging technology and data to solve real-world problems and create value.
+I’m Christy Johns, Data Science Master’s student at TU Dortmund with 3 years of experience in detail oriented data-driven solutions in analytics and automation. Skilled in
+Python, SQL, R and Power BI with an experience in ETL pipelines, predictive modeling, Risk Reporting and workflow optimization. Also, I’ve an experience
+in communicating strategic insights for business stakeholder. Motivated to deepen the expertise through research and advanced studies.
+
 
 
 ---
